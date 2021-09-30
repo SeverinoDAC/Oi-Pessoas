@@ -1,2 +1,4 @@
-# Oi Pessoas
- Primeiro repositório do curso de Git e GitHub
+# Olá Pessoas!
+Primeiro repositório criado no curso de Git e GitHub
+
+Repositório criado durante uma aula
